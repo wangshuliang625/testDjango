@@ -32,6 +32,12 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
         <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
@@ -46,6 +52,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kB60ypUOms0hit739YHSdQt14T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -111,5 +118,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
